@@ -1,11 +1,11 @@
 {
-    "name": "Glocal Korean",
-    "short_name": "Glocal Korean",
+    "name": "korean_bridge",
+    "short_name": "korean_bridge",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0D1B2A",
-    "theme_color": "#00ACC1",
-    "description": "Glocal Korean - Hanwha Ocean Nepali Workers Korean Learning App",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
