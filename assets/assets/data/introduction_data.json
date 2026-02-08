@@ -1,0 +1,173 @@
+{
+  "version": "1.0",
+  "title": "자기소개 & 학습 계획",
+  "description": "함께 배우는 동료들과 인사를 나누고 학습 목표를 공유하세요",
+  "levels": [
+    {
+      "level": "3",
+      "title": "3급 - 기본 자기소개",
+      "description": "간단하게 자신을 소개하고 학습 계획을 이야기해요",
+      "conversations": [
+        {
+          "id": "L3_intro_1",
+          "korean": "안녕하세요. 저는 람이라고 합니다.",
+          "nepali": "नमस्ते। म राम हुँ।",
+          "english": "Hello. My name is Ram.",
+          "category": "greeting"
+        },
+        {
+          "id": "L3_intro_2",
+          "korean": "저는 네팔에서 왔습니다.",
+          "nepali": "म नेपालबाट आएको हुँ।",
+          "english": "I came from Nepal.",
+          "category": "origin"
+        },
+        {
+          "id": "L3_intro_3",
+          "korean": "한국어를 배우고 싶습니다.",
+          "nepali": "म कोरियाली भाषा सिक्न चाहन्छु।",
+          "english": "I want to learn Korean.",
+          "category": "goal"
+        },
+        {
+          "id": "L3_intro_4",
+          "korean": "조선소에서 일하고 있습니다.",
+          "nepali": "म जहाज निर्माण कम्पनीमा काम गर्छु।",
+          "english": "I work at a shipyard.",
+          "category": "work"
+        },
+        {
+          "id": "L3_intro_5",
+          "korean": "용접 작업을 배우고 있습니다.",
+          "nepali": "म वेल्डिङ काम सिकिरहेको छु।",
+          "english": "I am learning welding work.",
+          "category": "work"
+        },
+        {
+          "id": "L3_intro_6",
+          "korean": "매일 한국어를 공부하고 싶습니다.",
+          "nepali": "म हरेक दिन कोरियाली भाषा अध्ययन गर्न चाहन्छु।",
+          "english": "I want to study Korean every day.",
+          "category": "plan"
+        },
+        {
+          "id": "L3_intro_7",
+          "korean": "동료들과 잘 지내고 싶습니다.",
+          "nepali": "म साथीहरूसँग राम्रोसँग बस्न चाहन्छु।",
+          "english": "I want to get along well with colleagues.",
+          "category": "relationship"
+        },
+        {
+          "id": "L3_intro_8",
+          "korean": "안전하게 일하는 것이 중요합니다.",
+          "nepali": "सुरक्षित तरिकाले काम गर्नु महत्त्वपूर्ण छ।",
+          "english": "Working safely is important.",
+          "category": "value"
+        },
+        {
+          "id": "L3_intro_9",
+          "korean": "열심히 배우겠습니다.",
+          "nepali": "म मिहिनेतले सिक्नेछु।",
+          "english": "I will study hard.",
+          "category": "commitment"
+        },
+        {
+          "id": "L3_intro_10",
+          "korean": "잘 부탁드립니다!",
+          "nepali": "कृपया राम्रोसँग सहयोग गर्नुहोस्!",
+          "english": "Please support me well!",
+          "category": "closing"
+        }
+      ]
+    },
+    {
+      "level": "4",
+      "title": "4급 - 상세 자기소개",
+      "description": "구체적으로 자신을 소개하고 학습 목표와 계획을 나눠요",
+      "conversations": [
+        {
+          "id": "L4_intro_1",
+          "korean": "안녕하세요. 저는 네팔 카트만두 출신 람 바하두르입니다.",
+          "nepali": "नमस्ते। म नेपालको काठमाडौंबाट आएको राम बहादुर हुँ।",
+          "english": "Hello. I am Ram Bahadur from Kathmandu, Nepal.",
+          "category": "greeting"
+        },
+        {
+          "id": "L4_intro_2",
+          "korean": "한국에 온 지 3개월 되었고, 한화오션에서 근무하고 있습니다.",
+          "nepali": "कोरिया आएको ३ महिना भयो र हानवा ओसनमा काम गरिरहेको छु।",
+          "english": "I have been in Korea for 3 months and work at Hanwha Ocean.",
+          "category": "background"
+        },
+        {
+          "id": "L4_intro_3",
+          "korean": "저의 목표는 1년 안에 한국어 능력시험 4급에 합격하는 것입니다.",
+          "nepali": "मेरो लक्ष्य १ वर्षभित्र कोरियाली भाषा क्षमता परीक्षा ४ तहमा उत्तीर्ण हुनु हो।",
+          "english": "My goal is to pass the Korean Language Proficiency Test Level 4 within one year.",
+          "category": "goal"
+        },
+        {
+          "id": "L4_intro_4",
+          "korean": "현재 블록 조립 팀에서 용접 보조 업무를 담당하고 있습니다.",
+          "nepali": "हाल ब्लक एसेम्ब्ली टोलीमा वेल्डिङ सहायक काम गरिरहेको छु।",
+          "english": "Currently, I am working as a welding assistant in the block assembly team.",
+          "category": "work"
+        },
+        {
+          "id": "L4_intro_5",
+          "korean": "앞으로 전문 용접기사 자격증을 취득하고 싶습니다.",
+          "nepali": "अगाडि व्यावसायिक वेल्डर प्रमाणपत्र प्राप्त गर्न चाहन्छु।",
+          "english": "In the future, I want to obtain a professional welder certification.",
+          "category": "career_goal"
+        },
+        {
+          "id": "L4_intro_6",
+          "korean": "매일 아침 30분씩 한국어 단어를 암기하고, 저녁에는 회화를 연습합니다.",
+          "nepali": "हरेक बिहान ३० मिनेट कोरियाली शब्द याद गर्छु र साँझ कुराकानी अभ्यास गर्छु।",
+          "english": "Every morning, I memorize Korean words for 30 minutes, and in the evening, I practice conversation.",
+          "category": "study_plan"
+        },
+        {
+          "id": "L4_intro_7",
+          "korean": "한국 동료들과 원활하게 의사소통하며 팀워크를 발휘하고 싶습니다.",
+          "nepali": "कोरियाली साथीहरूसँग राम्रोसँग कुराकानी गरी टीमवर्क प्रदर्शन गर्न चाहन्छु।",
+          "english": "I want to communicate smoothly with Korean colleagues and demonstrate teamwork.",
+          "category": "relationship"
+        },
+        {
+          "id": "L4_intro_8",
+          "korean": "안전 규정을 철저히 지키며, 품질 높은 작업 결과를 만들어내겠습니다.",
+          "nepali": "सुरक्षा नियमहरू राम्रोसँग पालना गरी उच्च गुणस्तरको काम परिणाम बनाउनेछु।",
+          "english": "I will strictly follow safety regulations and produce high-quality work results.",
+          "category": "value"
+        },
+        {
+          "id": "L4_intro_9",
+          "korean": "이 학습 프로그램을 통해 실무에 필요한 한국어를 완벽하게 익히겠습니다.",
+          "nepali": "यो अध्ययन कार्यक्रम मार्फत व्यावहारिक कार्यमा आवश्यक कोरियाली भाषा पूर्ण रूपमा सिक्नेछु।",
+          "english": "Through this learning program, I will master the Korean language needed for practical work.",
+          "category": "commitment"
+        },
+        {
+          "id": "L4_intro_10",
+          "korean": "함께 배우고 성장하는 동료가 되었으면 좋겠습니다. 잘 부탁드립니다!",
+          "nepali": "सँगै सिकेर बढ्ने साथी बन्न चाहन्छु। कृपया राम्रोसँग सहयोग गर्नुहोस्!",
+          "english": "I hope to become a colleague who learns and grows together. Please support me well!",
+          "category": "closing"
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "korean": [
+      "각 문장을 천천히 따라 읽어보세요",
+      "자신의 이름과 상황에 맞게 내용을 바꿔서 말해보세요",
+      "동료들과 함께 연습하면 더 효과적입니다"
+    ],
+    "nepali": [
+      "प्रत्येक वाक्य बिस्तारै पढ्नुहोस्",
+      "आफ्नो नाम र परिस्थिति अनुसार सामग्री परिवर्तन गरी बोल्नुहोस्",
+      "साथीहरूसँग अभ्यास गर्नु धेरै प्रभावकारी छ"
+    ]
+  }
+}
