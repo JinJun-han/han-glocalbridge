@@ -90,7 +90,7 @@ class HomeScreen extends StatelessWidget {
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
                     const Text(
-                      'Korea Bridge Pro',
+                      'Glocal Korean',
                       style: TextStyle(
                         color: Colors.white,
                         fontSize: 20,

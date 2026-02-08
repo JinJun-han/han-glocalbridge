@@ -500,7 +500,7 @@ class ProfileScreen extends StatelessWidget {
             ],
           ),
           SizedBox(height: 10),
-          Text('Korea Bridge Pro v2.0',
+          Text('Glocal Korean v2.0',
               style: TextStyle(
                   color: Colors.white,
                   fontSize: 13,

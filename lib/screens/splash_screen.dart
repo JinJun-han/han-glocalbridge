@@ -140,7 +140,7 @@ class _SplashScreenState extends State<SplashScreen>
                   child: Column(
                     children: [
                       const Text(
-                        'Korea Bridge',
+                        'Glocal',
                         style: TextStyle(
                           color: Colors.white,
                           fontSize: 36,
@@ -154,7 +154,7 @@ class _SplashScreenState extends State<SplashScreen>
                           colors: [AppTheme.teal, AppTheme.tealLight],
                         ).createShader(bounds),
                         child: const Text(
-                          'PRO',
+                          'KOREAN',
                           style: TextStyle(
                             color: Colors.white,
                             fontSize: 24,

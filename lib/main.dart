@@ -21,7 +21,7 @@ class KoreanBridgeApp extends StatelessWidget {
     return ChangeNotifierProvider(
       create: (_) => AppProvider()..initialize(),
       child: MaterialApp(
-        title: 'Korea Bridge Pro',
+        title: 'Glocal Korean',
         debugShowCheckedModeBanner: false,
         theme: AppTheme.darkOceanTheme,
         home: const SplashScreen(),
